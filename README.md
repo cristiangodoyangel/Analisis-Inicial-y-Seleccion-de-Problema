@@ -1,9 +1,9 @@
-#🧠 Análisis Inicial y Selección de Problema
+# 🧠 Análisis Inicial y Selección de Problema
 
 📌 Descripción del Proyecto
 Este proyecto tiene como objetivo realizar un análisis exploratorio de datos (EDA) de cuatro datasets diversos y seleccionar una problemática de Machine Learning para abordar. El análisis cubre datos del entretenimiento, videojuegos, comportamiento de clientes y fenómenos naturales.
 
-#📂 Conjuntos de Datos Analizados
+# 📂 Conjuntos de Datos Analizados
 
 ## Netflix Titles
 
